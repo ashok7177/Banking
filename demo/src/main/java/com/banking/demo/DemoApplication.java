@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("application is started");
+		System.out.println("application is started and pushing to git");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
